@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-10T17:21:28 IST" name="Default suite" finished-at="2024-04-10T17:21:47 IST" duration-ms="18992">
+    <groups>
+    </groups>
+    <test started-at="2024-04-10T17:21:28 IST" name="Default test" finished-at="2024-04-10T17:21:47 IST" duration-ms="18992">
+      <class name="com.actitime.testscript.RegisterEmployee">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.actitime.testscript.RegisterEmployee@7e07db1f]" started-at="2024-04-10T17:21:28 IST" name="OpenBrowser" finished-at="2024-04-10T17:21:33 IST" duration-ms="4777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.actitime.testscript.RegisterEmployee@7e07db1f]" started-at="2024-04-10T17:21:33 IST" name="Login" finished-at="2024-04-10T17:21:37 IST" duration-ms="4080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="RegisterEmployee()[pri:0, instance:com.actitime.testscript.RegisterEmployee@7e07db1f]" started-at="2024-04-10T17:21:37 IST" name="RegisterEmployee" finished-at="2024-04-10T17:21:43 IST" duration-ms="6621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterEmployee -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:com.actitime.testscript.RegisterEmployee@7e07db1f]" started-at="2024-04-10T17:21:43 IST" name="Logout" finished-at="2024-04-10T17:21:47 IST" duration-ms="3230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.actitime.testscript.RegisterEmployee@7e07db1f]" started-at="2024-04-10T17:21:47 IST" name="CloseBrowser" finished-at="2024-04-10T17:21:47 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.actitime.testscript.RegisterEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
